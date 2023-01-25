@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nueral Networks
 - 🌱 I’m currently learning Java
 
-Proficient in
+Proficient in:
 - 🐍 Python
 
 <!---
