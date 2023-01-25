@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @userkace
-- 👀 I’m interested in Nueral Netwroks
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @userkace, a Computer Science Student
+- 👀 I’m interested in Nueral Networks
+- 🌱 I’m currently learning Java
+
+Proficient in
+- 🐍 Python
 
 <!---
 userkace/userkace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
