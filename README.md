@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @userkace, a Computer Science Student
-- 👀 I’m interested in Nueral Networks
+- 👀 I’m interested in Neural Networks
 - 🌱 I’m currently learning Java
 
 Proficient in:
