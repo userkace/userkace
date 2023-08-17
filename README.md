@@ -5,6 +5,7 @@
 
 ## proficient in
 - 🌱 Java
+- ©️ C++
 - 🐍 Python
 - 🖥️ HTML, CSS & Javascript
 
