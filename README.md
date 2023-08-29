@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kervin Clyde Padilla</h1>
-<h3 align="center">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
+<h1 align="right">👋 Kamusta! I'm Kervin Clyde Padilla</h1>
+<h3 align="left">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
 
 - 🌱 I’m currently learning **Assembly**
 
