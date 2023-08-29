@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [https://user.kace.dev](https://user.kace.dev)
+- 👨‍💻 All of my projects are available at [user.kace.dev](https://user.kace.dev)
 
 - 📫 How to reach me **user@kace.dev**
 
-- 📄 Know about my experiences [https://user.kace.dev](https://user.kace.dev)
+- 📄 Know about my experiences [here!](https://user.kace.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
