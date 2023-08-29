@@ -10,7 +10,7 @@
 - 🐍 Python
 - 🖥️ HTML, CSS & Javascript
 
-https://user.kace.dev/
+<a href="https://user.kace.dev/">See more!</a>
 <!---
 userkace/userkace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
