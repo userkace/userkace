@@ -1,4 +1,4 @@
-[logo](https://github.com/userkace/userkace/blob/main/kamusta_github.png)
+![logo](https://github.com/userkace/userkace/blob/main/kamusta_github.png)
 <h1 align="right">👋 Kamusta! I'm Kervin Clyde Padilla</h1>
 <h3 align="left">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
 
