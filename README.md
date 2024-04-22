@@ -47,7 +47,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Arc](https://img.shields.io/badge/Arc-333bfb?style=for-the-badge&logo=Arc&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white)
 
 
 <h3 align="left">⚡Stats</h3>
