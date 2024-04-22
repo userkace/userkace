@@ -2,17 +2,14 @@
 <h1 align="right">👋 Kamusta! I'm Kervin Clyde Padilla</h1>
 <h3 align="left">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
 
-- 🌱 I’m currently learning **Assembly**
-
+- 🌱 I’m currently learning **Kotlin**
 - 👨‍💻 All of my projects are available at [user.kace.dev](https://user.kace.dev)
-
 - 📫 How to reach me **user@kace.dev**
-
 - 📄 Know about my experiences [here!](https://user.kace.dev)
-
 - ☕ You can support me through [ko-fi!](https://ko-fi.com/userkace)
 
-<h3 align="left">Connect with me...</h3>
+<h3 align="left">🔗 Connect</h3>
+<!--Socials-->
 <p align="left">
 <a href="https://linkedin.com/in/kcspadilla" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kcspadilla"/></a>
 <a href="https://twitter.com/kerubinkuraido" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kerubinkuraido"/></a>
@@ -20,19 +17,19 @@
 <a href="https://www.youtube.com/c/userkace" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="userkace"/></a>
 </p>
 
-<h3 align="left">Languages...</h3>
+<h3 align="left">💾🔧 Languages & Tools</h3>
+<!--Languages-->
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<h3 align="left">Tools...</h3>
+<!--Tools-->
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -41,7 +38,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
-<h3 align="left">Stats</h3>
-<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=userkace&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="userkace"/>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=userkace&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="userkace"/></p>
+<h3 align="left">⚡ Stats</h3>
+<!--Stats-->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kervin.userkace)
+<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=userkace&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="userkace"/>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=userkace&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="userkace"/></p>
+<!--Visitos-->
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kervin.userkace)
