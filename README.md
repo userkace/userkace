@@ -10,6 +10,7 @@
 <h3 align="left">⌛Learning </h3>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <h3 align="left">🔗Connect</h3>
 <!--Socials-->
