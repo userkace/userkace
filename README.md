@@ -2,7 +2,7 @@
 <h1 align="right">👋 Kamusta! I'm Kervin Clyde Padilla</h1>
 <h3 align="left">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
 
-- 👨‍💻 All of my projects are available at [user.kace.dev](https://user.kace.dev/#portfolio)
+- 👨‍💻 All of my projects are available at [user.kace.dev](https://kace.dev/#/projects)
 - 📫 How to reach me **user@kace.dev**
 - 📄 Know about my experiences [here!](https://user.kace.dev)
 - ☕ You can support me through [ko-fi!](https://ko-fi.com/userkace)
