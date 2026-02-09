@@ -1,10 +1,10 @@
 ![user@kace.dev](https://github.com/userkace/userkace/blob/main/banner.png)
-<h1 align="right">👋 Kamusta! I'm Kervin Clyde Padilla</h1>
-<h3 align="left">I am a Computer Science student. I want to achieve a level of proficiency not only in the field that I am pursuing, but also to ensure a high level of adaptability and cohesion with many working environments.</h3>
+<h1 align="right">Kamusta! I'm Kervin</h1>
+<h3 align="left">Software Engineer & Project Manager. Focused on delivering high-impact technical solutions through disciplined project leadership and a versatile approach to cross-functional collaboration.</h3>
 
 - 👨‍💻 All of my projects are available at [kace.dev](https://kace.dev/#/projects)
 - 📫 How to reach me **user@kace.dev**
-- 📄 Know about my experiences [here!](https://user.kace.dev)
+- 📄 Know about my experiences [here!](https://kace.dev)
 - ☕ You can support me through [ko-fi!](https://ko-fi.com/userkace)
 
 <h3 align="left">⌛Learning </h3>
