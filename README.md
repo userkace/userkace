@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [kace.dev](https://kace.dev/#/projects)
 - 📫 Contact me at **user@kace.dev**
-- 📄 Know about my experiences [here!](https://kace.dev)
+- 📄 Know about my experiences [here!](https://kace.dev/#/about)
 - ☕ You can support me through [ko-fi!](https://ko-fi.com/userkace)
 
 <!--Stats-->
