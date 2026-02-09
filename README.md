@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer & Project Manager. Focused on delivering high-impact technical solutions through disciplined project leadership and a versatile approach to cross-functional collaboration.</h3>
 
 - 👨‍💻 All of my projects are available at [kace.dev](https://kace.dev/#/projects)
-- 📫 How to reach me **user@kace.dev**
+- 📫 Contact me at **user@kace.dev**
 - 📄 Know about my experiences [here!](https://kace.dev)
 - ☕ You can support me through [ko-fi!](https://ko-fi.com/userkace)
 
