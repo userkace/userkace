@@ -11,18 +11,6 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-<h3 align="left">🔗Connect</h3>
-<!--Socials-->
-<p align="left">
-<a href="mailto:user@kace.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Email-fD9B5D?style=for-the-badge&logo=protonmail&logoColor=333333" alt="email"/></a>
-<a href="https://linkedin.com/in/kcspadilla" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://twitter.com/kerubinkuraido" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-<a href="https://instagram.com/kerubinkuraido" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://www.youtube.com/c/userkace" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
-</p>
-
-
-
 <h3 align="left">💾🔧Languages & Tools</h3>
 <!--Languages-->
 
